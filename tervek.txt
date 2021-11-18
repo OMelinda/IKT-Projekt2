@@ -1,0 +1,23 @@
+Mesterséges intelligencia:
+Mesterségesen lopunk adatot. Felismeri a gyakran használt szavakat és utazási helyeket majd azokat felmenti
+a felhöbe szabad használat céljából vagy külömbözõ utazási cégeknek, hogy az emberek tudják hova érdemes és hova
+nem érdemes menni.
+
+Virtualizáció:
+Külömbözõ helyi vagy érdekesebb látványosságokat viszünk föl számitógépre, hogy majd azt egy vr-al meg lehessen
+tekinteni csak úgy mintha mi is ott volnánk.Ja és adatot lopunk...
+
+Felohõszolgáltatás használata:
+A mesterséges intelligencia által gyüjtött adatot feltölti a felhõbe, késöbbi használatra.
+
+Kérdõvnek:
+1. Ön milyen gyakran utaznak?
+2. Az ön családjában van-e olyan személy aki fizikailag vagy mentálisan sérült?
+3. Van e tapasztalatuk a Virtuális Valosággal (VR)?
+4. Ön rendelkezik egy Virtuális headset-el?
+5. Ha ön rendelkezik egy vitruális headset-el, el tudná mondani milyen márkájú? (nem választos, írós)
+6. Egy 1-tõl 5-ig terjedõ skálán mennyire értékelni a cégünk ajánlatát?
+7. Ön használ-e olyan eszközt amely rendelkezik mesteréges inteligenciával?
+8. Ha ön rendelkezik olyan eszközzel el tudná mondani melyik funkcióit veszi igénybe?
+9. ?
+10. ?
